@@ -1,3 +1,9 @@
+# Nandini's First CS193 Homework
+
+- I meet people from the same majors in a smaller-sized class
+- The instructors have gone through the class before as students
+- We learn things that are not taught in the regular CS 180 classes
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
