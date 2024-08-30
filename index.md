@@ -1,4 +1,4 @@
-# Nandini's First CS193 Homework
+# Nandini Sachdeva's First CS193 Homework
 
 - I meet people from the same majors in a smaller-sized class
 - The instructors have gone through the class before as students
