@@ -6,6 +6,8 @@
 - The instructors have gone through the class before as students
 - We learn things that are not taught in the regular CS 180 classes
 
+
+
   
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
